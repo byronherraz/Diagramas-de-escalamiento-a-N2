@@ -1,0 +1,1 @@
+# Diagramas-de-escalamiento-a-N2
